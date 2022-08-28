@@ -1,0 +1,27 @@
+{
+  "name": "concessionaria-fusca-azul",
+  "version": "1.0.0",
+  "description": "APIREST para gestão de carros",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmalheiro/PW3-ATIVIDADE.git"
+  },
+  "keywords": [
+    "node.js",
+    "etec",
+    "pw3"
+  ],
+  "author": "Gabriel Malheiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gmalheiro/PW3-ATIVIDADE/issues"
+  },
+  "homepage": "https://github.com/gmalheiro/PW3-ATIVIDADE#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
