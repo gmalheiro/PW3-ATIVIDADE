@@ -4,7 +4,8 @@
   "description": "APIREST para gestão de carros",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "git": "git add --all && git commit -m 'update' && git push"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,8 @@
   },
   "homepage": "https://github.com/gmalheiro/PW3-ATIVIDADE#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.23.2"
   }
 }
